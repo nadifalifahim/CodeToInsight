@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,email,phone_number,hire_date,job_title,salary,location,is_manager,manager_id
+EMP001,Alice,Smith,alice.s@example.com,555-1001,2019-01-15,Sales Lead,75000,New York,TRUE,EMP006
+EMP002,Bob,Johnson,bob.j@example.com,555-1002,2022-03-01,Marketing Specialist,60000,New York,FALSE,EMP008
+EMP003,Charlie,Brown,charlie.b@example.com,555-1003,2017-08-10,HR Generalist,68000,London,FALSE,EMP010
+EMP004,Diana,Miller,diana.m@example.com,555-1004,2021-06-20,Software Engineer,95000,San Francisco,FALSE,EMP011
+EMP005,Eve,Davis,eve.d@example.com,555-1005,2023-01-05,HR Assistant,55000,London,FALSE,EMP010
+EMP006,Frank,Garcia,frank.g@example.com,555-1006,2017-02-18,Sales Manager,110000,New York,TRUE,EMP000
+EMP007,Grace,Rodriguez,grace.r@example.com,555-1007,2020-04-12,Senior Engineer,105000,San Francisco,FALSE,EMP011
+EMP008,Harry,Martinez,harry.m@example.com,555-1008,2022-09-01,Marketing Manager,90000,New York,TRUE,EMP000
+EMP009,Ivy,Hernandez,ivy.h@example.com,555-1009,2024-02-28,Sales Associate,50000,New York,FALSE,EMP006
+EMP010,Jack,Lopez,jack.l@example.com,555-1010,2018-11-11,HR Manager,98000,London,TRUE,EMP000
+EMP011,Karen,Gonzalez,karen.g@example.com,555-1011,2019-07-01,Engineering Manager,120000,San Francisco,TRUE,EMP000
+EMP012,Liam,Wilson,liam.w@example.com,555-1012,2021-05-15,Marketing Coordinator,58000,New York,FALSE,EMP008
+EMP013,Mia,Anderson,mia.a@example.com,555-1013,2023-03-01,Sales Associate,52000,New York,FALSE,EMP006
+EMP014,Noah,Thomas,noah.t@example.com,555-1014,2024-01-10,HR Coordinator,56000,London,FALSE,EMP010
+EMP015,Olivia,Jackson,olivia.j@example.com,555-1015,2020-09-01,Software Engineer,90000,San Francisco,FALSE,EMP011
+EMP016,Peter,White,peter.w@example.com,555-1016,2016-01-01,Senior Sales Manager,130000,New York,TRUE,EMP000
+EMP017,Quinn,Harris,quinn.h@example.com,555-1017,2024-04-01,Marketing Intern,40000,New York,FALSE,EMP008
+EMP018,Rachel,Clark,rachel.c@example.com,555-1018,2022-07-20,HR Business Partner,80000,London,FALSE,EMP010
+EMP019,Sam,Lewis,sam.l@example.com,555-1019,2020-03-10,Lead Engineer,115000,San Francisco,FALSE,EMP011
+EMP020,Tina,Young,tina.y@example.com,555-1020,2023-09-01,Sales Representative,60000,New York,FALSE,EMP006
